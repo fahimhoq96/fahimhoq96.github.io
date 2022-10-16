@@ -5,6 +5,10 @@ The objective of the experiment is to find out the optimal design of a paper hel
 There was a initial screening experiment to determine the key variables, then using those variables we performed steepest ascent and central composite design experiment. This was followed by response surface plots, contour plots and its canonical analysis to identify the optimal design. Finally, confirmation run was done to test the hypothesis whether our model of paper helicopter was indeed the optimal design.
 
 # [Tableau Viz](https://public.tableau.com/app/profile/fahim.hoq)
+I have made 2 Viz from the same data. The data is from a survey. The Survey was made by Alex Freberg by using social media. The data set was downloaded from Alex Freberg's Github page. There were a total of 630 participants.
+
+1st Viz: Comparing Work-Life Balance between Data Jobs. Respondants were asked to rate their Work-Life balance on a scale of 1 to 10.
+2nd Viz: Answering which is the favorite prommramming language among people interested in Data Science.
 
 # About
 I’m interested in Statistics, analyzing data, programming and telling stories with data. 
