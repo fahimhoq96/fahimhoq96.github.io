@@ -7,9 +7,9 @@ There was a initial screening experiment to determine the key variables, then us
 # [Tableau Viz](https://public.tableau.com/app/profile/fahim.hoq)
 I have made 2 Viz from the same data. The data is from a survey. The Survey was made by Alex Freberg by using social media. The data set was downloaded from Alex Freberg's Github page. There were a total of 630 participants.
 
-1st Viz: Comparing Work-Life Balance between Data Jobs. Respondants were asked to rate their Work-Life balance on a scale of 1 to 10.
+[1st Viz:](https://public.tableau.com/views/SurveyofDataJobs/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) Comparing Work-Life Balance between Data Jobs. Respondants were asked to rate their Work-Life balance on a scale of 1 to 10.
 
-2nd Viz: Answering which is the favorite prommramming language among people interested in Data Science.
+[2nd Viz:](https://public.tableau.com/views/PopularityofprogrammingLanguages/PopularityofVariousProgrammingLanguages?:language=en-US&:display_count=n&:origin=viz_share_link) Answering which is the favorite prommramming language among people interested in Data Science.
 
 # About
 I’m interested in Statistics, analyzing data, programming and telling stories with data. 
