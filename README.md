@@ -8,6 +8,7 @@ There was a initial screening experiment to determine the key variables, then us
 I have made 2 Viz from the same data. The data is from a survey. The Survey was made by Alex Freberg by using social media. The data set was downloaded from Alex Freberg's Github page. There were a total of 630 participants.
 
 1st Viz: Comparing Work-Life Balance between Data Jobs. Respondants were asked to rate their Work-Life balance on a scale of 1 to 10.
+
 2nd Viz: Answering which is the favorite prommramming language among people interested in Data Science.
 
 # About
