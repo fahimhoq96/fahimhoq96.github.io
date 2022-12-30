@@ -4,6 +4,9 @@ The objective of the experiment is to find out the optimal design of a paper hel
 
 There was a initial screening experiment to determine the key variables, then using those variables we performed steepest ascent and central composite design experiment. This was followed by response surface plots, contour plots and its canonical analysis to identify the optimal design. Finally, confirmation run was done to test the hypothesis whether our model of paper helicopter was indeed the optimal design.
 
+# [Technical Analysis on Ethereum](https://github.com/fahimhoq96/Technical-Analysis-on-Ethereum)
+Data set includes the price of Ethereum for the year 2022. I have done analysis of Simple Moving Average, Exponential Moving Average and Relative Strength Index using Python.
+
 # [Tableau Viz](https://public.tableau.com/app/profile/fahim.hoq)
 I have made 2 Viz from the same data. The data is from a survey. The Survey was made by Alex Freberg by using social media. The data set was downloaded from Alex Freberg's Github page. There were a total of 630 participants.
 
