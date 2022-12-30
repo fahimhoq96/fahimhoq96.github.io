@@ -1,5 +1,9 @@
 # My Projects
-# [The Paper Helicopter Project](https://github.com/fahimhoq96/The-Paper-Helicopter-Project)
+# [Ice Cream Cone](https://github.com/fahimhoq96/IceCreamCone)
+Finding best model using Regression analysis in R. Flour is used in baking ice cream cones. The flour content contains ash, moisture, protein etc. My objective was to find a model that best describes the relationship between the response variable viscosity with the explanatory variables: moisture, protein, and ash.
+
+
+# [Paper Helicopter](https://github.com/fahimhoq96/The-Paper-Helicopter-Project)
 The objective of the experiment is to find out the optimal design of a paper helicopter given the restriction of paper size (21cm x 28cm). The objective required the exploration of the best combination from the nine distinct selected design factors, which would assist the paper helicopter in staying for longest time in the air, given the paper size. 
 
 There was a initial screening experiment to determine the key variables, then using those variables we performed steepest ascent and central composite design experiment. This was followed by response surface plots, contour plots and its canonical analysis to identify the optimal design. Finally, confirmation run was done to test the hypothesis whether our model of paper helicopter was indeed the optimal design.
@@ -15,7 +19,6 @@ I have made 2 Viz from the same data. The data is from a survey. The Survey was 
 [2nd Viz:](https://public.tableau.com/views/PopularityofprogrammingLanguages/PopularityofVariousProgrammingLanguages?:language=en-US&:display_count=n&:origin=viz_share_link) Answering which is the favorite prommramming language among people interested in Data Science.
 
 # [Data Cleaning](https://github.com/fahimhoq96/DataCleaning)
-
 Software used: Microsoft SQL server
 
 # About
