@@ -11,6 +11,10 @@ I have made 2 Viz from the same data. The data is from a survey. The Survey was 
 
 [2nd Viz:](https://public.tableau.com/views/PopularityofprogrammingLanguages/PopularityofVariousProgrammingLanguages?:language=en-US&:display_count=n&:origin=viz_share_link) Answering which is the favorite prommramming language among people interested in Data Science.
 
+# [Data Cleaning](https://github.com/fahimhoq96/DataCleaning)
+
+Software used: Microsoft SQL server
+
 # About
 I’m interested in Statistics, analyzing data, programming and telling stories with data. 
 My hobbies include playing Chess, reading classical novels, watching sports etc.
