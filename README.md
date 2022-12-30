@@ -1,7 +1,7 @@
 # My Projects
 # [Ice Cream Cone](https://github.com/fahimhoq96/IceCreamCone)
 
-![](/images/IceCream.jpg)
+![](/images/Ice.jpg)
 
 Finding best model using Regression analysis in R. Flour is used in baking ice cream cones. The flour content contains ash, moisture, protein etc. My objective was to find a model that best describes the relationship between the response variable viscosity with the explanatory variables: moisture, protein, and ash.
 
@@ -9,13 +9,13 @@ Finding best model using Regression analysis in R. Flour is used in baking ice c
 # [Paper Helicopter](https://github.com/fahimhoq96/The-Paper-Helicopter-Project)
 The objective of the experiment is to find out the optimal design of a paper helicopter given the restriction of paper size (21cm x 28cm). The objective required the exploration of the best combination from the nine distinct selected design factors, which would assist the paper helicopter in staying for longest time in the air, given the paper size.
 
-![](/images/paper.jpg)
+![](/images/Paper.jpg)
 
 There was a initial screening experiment to determine the key variables, then using those variables we performed steepest ascent and central composite design experiment. This was followed by response surface plots, contour plots and its canonical analysis to identify the optimal design. Finally, confirmation run was done to test the hypothesis whether our model of paper helicopter was indeed the optimal design.
 
 # [Technical Analysis on Ethereum](https://github.com/fahimhoq96/Technical-Analysis-on-Ethereum)
 
-![](/images/ethereum.jpg)
+![](/images/Ether.jpg)
 
 Data set includes the price of Ethereum for the year 2022. I have done analysis of Simple Moving Average, Exponential Moving Average and Relative Strength Index using Python.
 
