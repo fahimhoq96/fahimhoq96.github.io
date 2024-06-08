@@ -1,4 +1,7 @@
 # My Projects
+
+Here are some of my data science projects:
+
 # [Ice Cream Cone](https://github.com/fahimhoq96/IceCreamCone)
 
 ![](/images/Ice.jpg)
